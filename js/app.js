@@ -22,3 +22,6 @@ navBtnDOM.addEventListener('click',()=>{
 const date =getElement('#date')
 const currentyear = new Date().getFullYear();
 date.textContent = currentyear;
+
+// hero:--
+
